@@ -1,0 +1,45 @@
+.foot
+{
+    padding-top: 20px;
+    background-color: rgb(240 251 244);
+}
+.foot ul li
+{
+    list-style: none;
+    text-align: left;
+    color: gray;
+    margin-left: 57px;
+}
+.foot h4
+{
+    margin-left: 89px;
+    text-align: left;
+    color:black;
+}
+.footer_bottom {
+    font-family: 'chivoregular';
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    box-sizing: border-box;
+    border-top: 2px solid #EEEEEE;
+    padding: 20px 0;
+    margin: 40px 0 0 0;
+}
+.footer_bottom ul
+{
+   
+    overflow: hidden;
+    align-items: center;
+}
+.footer_bottom ul a
+{
+    color: gray;
+    font-style: none;
+    
+}
+.footer_bottom li
+{
+    display: inline-block;
+    margin-left: 10px!important;
+}
+

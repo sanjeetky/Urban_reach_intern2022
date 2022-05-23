@@ -1,0 +1,33 @@
+.nav-link
+{
+    color: black!important;
+    font-size: 15px;
+    font-weight: 500;
+    
+}
+.urban
+{
+    margin-left: -1.8%;
+    font-weight: 900;
+    font-size: 30px!important;
+    color: rgb(65 194 100) !important;
+    font-family: 'Poppins', sans-serif;
+
+}
+.home
+{
+    
+    padding-left: 40px!important;
+}
+.nav-link:hover
+{
+    color: green!important;
+}
+.navbar-toggler
+{
+    margin-right: 5%;
+}
+.navbar
+{
+    padding-top: 30px!important;
+}  
